@@ -1,0 +1,19 @@
+{
+    "name": "jc91715\/dingding",
+    "description": "钉钉",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jc91715",
+            "email": "370234915@qq.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jc91715\\Dingding\\": "src"
+        }
+    }
+}
