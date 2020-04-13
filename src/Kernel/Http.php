@@ -41,7 +41,7 @@ class Http
         'curl' => [
 //            CURLOPT_IPRESOLVE => CURL_IPRESOLVE_V4,
         ],
-        'timeout'=>2
+        'timeout'=>30
 
     ];
     protected $app;
